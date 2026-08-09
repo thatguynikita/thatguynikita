@@ -5,9 +5,9 @@
 ### DevOps / SRE — Systems Engineer · 11 years turning infrastructure chaos into something that pages you less
 
 [![Email](https://img.shields.io/badge/Email-me%40nikita.sh-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:me@nikita.sh)
-[![Telegram](https://img.shields.io/badge/Telegram-@nikita-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Website](https://img.shields.io/badge/Website-nikita.sh-000000?style=flat-square&logo=About.me&logoColor=white)](https://nikita.sh/cv.html)
+[![Telegram](https://img.shields.io/badge/Telegram-@nikita-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/thatguynikita)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-chernozipunnikov)
+[![Website](https://img.shields.io/badge/Website-nikita.sh-000000?style=flat-square&logo=About.me&logoColor=white)](https://nikita.sh)
 
 </div>
 
