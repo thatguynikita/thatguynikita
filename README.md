@@ -17,8 +17,6 @@
 
 DevOps/SRE engineer with 11 years across Application Support and Operations, now growing into AI-driven software development. Solid grasp of how modern systems work (and how they break), deep Linux and networking experience, and a genuine enthusiasm for making DevOps/SRE practices real rather than aspirational.
 
-Currently based in Saint Petersburg, Russia · hybrid, full-time.
-
 Looking to team up with sharp, experienced people who care about their craft.
 
 ---
@@ -27,7 +25,11 @@ Looking to team up with sharp, experienced people who care about their craft.
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=linux,bash,python,go,docker,kubernetes,terraform,ansible,aws,gcp,azure,nginx,postgres,prometheus,grafana,jenkins,gitlab,git)
+![Skills](https://skillicons.dev/icons?i=linux,bash,python,go,docker,kubernetes,terraform,ansible,aws,gcp,nginx,postgres,prometheus,grafana,jenkins,gitlab,git)
+
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-5282FF?style=for-the-badge&logo=yandexcloud&logoColor=white)
+![VK Cloud](https://img.shields.io/badge/VK%20Cloud-0077FF?style=for-the-badge&logo=vk&logoColor=white)
 
 </div>
 
@@ -35,6 +37,6 @@ Looking to team up with sharp, experienced people who care about their craft.
 
 <div align="center">
 
-📄 Full CV: [nikita.sh/cv.html](https://nikita.sh/cv.html) · Русская версия: [nikita.sh/ru/cv.html](https://nikita.sh/ru/cv.html)
+📄 Full CV: [nikita.sh/cv.html](https://nikita.sh/cv.html)
 
 </div>
