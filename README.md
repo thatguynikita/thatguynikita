@@ -25,7 +25,7 @@ Looking to team up with sharp, experienced people who care about their craft.
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=linux,bash,python,go,docker,kubernetes,terraform,ansible,aws,gcp,nginx,prometheus,grafana,jenkins,gitlab,git)
+![Skills](https://skillicons.dev/icons?i=linux,bash,python,go,docker,kubernetes,terraform,ansible,aws,nginx,prometheus,grafana,jenkins,gitlab,git)
 
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-5282FF?style=for-the-badge&logo=yandexcloud&logoColor=white)
