@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-me%40nikita.sh-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:me@nikita.sh)
 [![Telegram](https://img.shields.io/badge/Telegram-@thatguynikita-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/thatguynikita)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-chernozipunnikov)
-[![Website](https://img.shields.io/badge/Website-nikita.sh-000000?style=flat-square&logo=About.me&logoColor=white)](https://nikita.sh/cv.html)
+[![Website](https://img.shields.io/badge/Website-nikita.sh-060a08?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iIzA2MGEwOCIvPjx0ZXh0IHg9IjUwJSIgeT0iNjIlIiBmb250LXNpemU9IjYwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjMzlmZjg4IiBmb250LWZhbWlseT0ibW9ub3NwYWNlIj4+PC90ZXh0Pjwvc3ZnPg==&logoColor=white)](https://nikita.sh)
 
 </div>
 
@@ -27,7 +27,6 @@ Looking to team up with sharp, experienced people who care about their craft.
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
