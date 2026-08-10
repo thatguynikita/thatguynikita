@@ -2,10 +2,10 @@
 
 # Hi, I'm Nikita 👋
 
-### DevOps / SRE — Systems Engineer · 11 years turning infrastructure chaos into something that pages you less
+### DevOps / SRE — Systems Engineer · Turning infrastructure chaos into something that pages you less
 
 [![Email](https://img.shields.io/badge/Email-me%40nikita.sh-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:me@nikita.sh)
-[![Telegram](https://img.shields.io/badge/Telegram-@nikita-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/thatguynikita)
+[![Telegram](https://img.shields.io/badge/Telegram-@thatguynikita-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/thatguynikita)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-chernozipunnikov)
 [![Website](https://img.shields.io/badge/Website-nikita.sh-000000?style=flat-square&logo=About.me&logoColor=white)](https://nikita.sh)
 
@@ -21,6 +21,30 @@ Looking to team up with sharp, experienced people who care about their craft.
 
 ---
 
+## 🤖 AI Stack
+
+<div align="center">
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
+![Pi](https://img.shields.io/badge/Pi-333333?style=for-the-badge&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-333333?style=for-the-badge&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM%20Studio-000000?style=for-the-badge&logo=lmstudio&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-6950EF?style=for-the-badge&logo=qwen&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Langflow](https://img.shields.io/badge/Langflow-000000?style=for-the-badge&logo=langflow&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
 ## 🛠️ Core Stack
 
 <div align="center">
@@ -30,6 +54,21 @@ Looking to team up with sharp, experienced people who care about their craft.
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-5282FF?style=for-the-badge&logo=yandexcloud&logoColor=white)
 ![VK Cloud](https://img.shields.io/badge/VK%20Cloud-0077FF?style=for-the-badge&logo=vk&logoColor=white)
+
+</div>
+
+---
+
+
+## 🎓 Certifications
+
+<div align="center">
+
+![AWS Certified DevOps Engineer Professional](https://img.shields.io/badge/AWS-Certified%20DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Certified Kubernetes Administrator](https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Red Hat Certified Engineer](https://img.shields.io/badge/RHCE-Red%20Hat%20Certified%20Engineer-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Cisco CCNA](https://img.shields.io/badge/CCNA-Routing%20%26%20Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Yandex Cloud Certified DevOps Engineer](https://img.shields.io/badge/Yandex%20Cloud-Certified%20DevOps%20Engineer-5282FF?style=for-the-badge&logo=yandexcloud&logoColor=white)
 
 </div>
 
