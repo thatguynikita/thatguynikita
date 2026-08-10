@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Email-me%40nikita.sh-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:me@nikita.sh)
 [![Telegram](https://img.shields.io/badge/Telegram-@thatguynikita-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/thatguynikita)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-chernozipunnikov)
-[![Website](https://img.shields.io/badge/Website-nikita.sh-000000?style=flat-square&logo=About.me&logoColor=white)](https://nikita.sh)
+[![Website](https://img.shields.io/badge/Website-nikita.sh-000000?style=flat-square&logo=About.me&logoColor=white)](https://nikita.sh/cv.html)
 
 </div>
 
@@ -54,21 +54,6 @@ Looking to team up with sharp, experienced people who care about their craft.
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-5282FF?style=for-the-badge&logo=yandexcloud&logoColor=white)
 ![VK Cloud](https://img.shields.io/badge/VK%20Cloud-0077FF?style=for-the-badge&logo=vk&logoColor=white)
-
-</div>
-
----
-
-
-## 🎓 Certifications
-
-<div align="center">
-
-![AWS Certified DevOps Engineer Professional](https://img.shields.io/badge/AWS-Certified%20DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Certified Kubernetes Administrator](https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Red Hat Certified Engineer](https://img.shields.io/badge/RHCE-Red%20Hat%20Certified%20Engineer-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Cisco CCNA](https://img.shields.io/badge/CCNA-Routing%20%26%20Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Yandex Cloud Certified DevOps Engineer](https://img.shields.io/badge/Yandex%20Cloud-Certified%20DevOps%20Engineer-5282FF?style=for-the-badge&logo=yandexcloud&logoColor=white)
 
 </div>
 
