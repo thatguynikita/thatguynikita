@@ -21,29 +21,6 @@ Looking to team up with sharp, experienced people who care about their craft.
 
 ---
 
-## 🤖 AI Stack
-
-<div align="center">
-
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logoColor=white)
-![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white)
-![Pi](https://img.shields.io/badge/Pi-333333?style=for-the-badge&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-333333?style=for-the-badge&logoColor=white)
-![LM Studio](https://img.shields.io/badge/LM%20Studio-000000?style=for-the-badge&logo=lmstudio&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-6950EF?style=for-the-badge&logo=qwen&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Langflow](https://img.shields.io/badge/Langflow-000000?style=for-the-badge&logo=langflow&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white)
-
-</div>
-
----
-
 ## 🛠️ Core Stack
 
 <div align="center">
